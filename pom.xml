@@ -45,7 +45,7 @@
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
-            <version>9.4.1212.jre7</version>
+            <version>42.2.13</version>
         </dependency>
         <dependency>
             <groupId>com.microsoft.sqlserver</groupId>
@@ -121,7 +121,7 @@
         <dependency>
             <groupId>org.liquibase</groupId>
             <artifactId>liquibase-core</artifactId>
-            <version>3.5.3</version>
+            <version>3.8.1</version>
         </dependency>
         <dependency>
             <groupId>javax.mail</groupId>
